@@ -1,0 +1,302 @@
+C:\Users\Alumno\Desktop\t2\t2\bin\Debug\t2.exe
+C:\Users\Alumno\Desktop\t2\t2\bin\Debug\t2.pdb
+C:\Users\Alumno\Desktop\t2\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\t2\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Users\Alumno\Desktop\t2\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alumno\Desktop\t2\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\t2\t2\obj\Debug\t2.exe
+C:\Users\Alumno\Desktop\t2\t2\obj\Debug\t2.pdb
+C:\Users\Alumno\Desktop\t2 - copia\t2\obj\Debug\t2.exe
+C:\Users\Alumno\Desktop\t2 - copia\t2\obj\Debug\t2.pdb
+C:\Users\Alumno\Desktop\t2 - copia\t2\bin\Debug\t2.exe
+C:\Users\Alumno\Desktop\t2 - copia\t2\bin\Debug\t2.pdb
+C:\Users\Alumno\Desktop\t2 - copia\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\t2 - copia\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Users\Alumno\Desktop\t2 - copia\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alumno\Desktop\t2 - copia\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2 - copia\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de t2 - copia\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Copia de Copia de Copia de t2 - copia\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form1\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form2\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form3\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form4\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form5\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form6\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form7\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form8\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form9\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Debug\WindowsFormsApplication1.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\WindowsFormsApplication1.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form11\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\WindowsFormsApplication1.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form12\t2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form13\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form13\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\WindowsFormsApplication1.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\t2\Tetris con Form14\t2\obj\Debug\t2.csproj.GenerateResource.Cache

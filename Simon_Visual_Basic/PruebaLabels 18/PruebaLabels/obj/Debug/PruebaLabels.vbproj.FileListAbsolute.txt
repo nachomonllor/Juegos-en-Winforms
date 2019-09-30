@@ -1,0 +1,193 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\PruebaLabels\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 2\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 3\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 4\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 5\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 5\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 5\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 6\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 7\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 8\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 9\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 10\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 11\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 12\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 13\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 13\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\BORRAR\LABELS SIMON\PruebaLabels 13\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 14\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\LABELS SIMON\PruebaLabels 15\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 16\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta (4)\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 17\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\bin\Debug\PruebaLabels.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\bin\Debug\PruebaLabels.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\bin\Debug\PruebaLabels.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.FrmPuntajes.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\SIMON VB NET MIO\SIMON -MEDIANA PROMEDIO\PruebaLabels 18\PruebaLabels\obj\Debug\PruebaLabels.vbproj.GenerateResource.Cache

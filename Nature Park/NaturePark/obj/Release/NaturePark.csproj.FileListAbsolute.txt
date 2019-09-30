@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\bin\Release\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\bin\Release\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Release\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Release\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Release\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Release\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Release\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.FrmNaturePark.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Release\NaturePark.pdb

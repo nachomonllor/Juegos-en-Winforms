@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\bin\Release\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\bin\Release\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Release\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Release\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Release\t2.exe
+C:\Documents and Settings\Administrador\Escritorio\Copia de t2 - copia\t2\obj\Release\t2.pdb
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\WindowsFormsApplication1.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\WindowsFormsApplication1.FrmTetris.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\t2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\t2\Tetris con Form10\t2\obj\Release\t2.exe

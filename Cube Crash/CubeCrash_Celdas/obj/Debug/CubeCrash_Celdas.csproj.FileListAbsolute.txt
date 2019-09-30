@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas1\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\CubeCrash_Celdas0\CubeCrash_Celdas2\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.exe
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\bin\Debug\CubeCrash_Celdas.pdb
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\TODO CUBE CRASH\CubeCrash_Celdas0\CubeCrash_Celdas3\CubeCrash_Celdas\obj\Debug\CubeCrash_Celdas.csproj.GenerateResource.Cache

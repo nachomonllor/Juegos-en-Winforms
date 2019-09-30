@@ -1,0 +1,292 @@
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark1\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark2\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark3\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark4\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark5\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark6\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark8\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark9\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark10\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark11\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark12\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark13\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark14\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark15\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark16 (un solo if)\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark16 (un solo if)\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)17\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)18\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)19\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)20\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)21\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)22\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)23\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)24\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)25\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)25\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)26\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)27\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.FrmNaturePark.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\NaturePark (un solo if)28\NaturePark\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\NaturePark.exe
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\NaturePark.pdb
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.FrmGraficos.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.FrmNaturePark.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.exe
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.pdb
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\NaturePark.exe
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\NaturePark.pdb
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\ZedGraph.xml
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\de\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\es\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\fr\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\hu\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\it\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\ja\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\pt\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\ru\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\sk\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\sv\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\tr\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\ResolveAssemblyReference.cache
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.AboutBox1.resources
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.FrmEstadisticas.resources
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.FrmGraficos.resources
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.FrmNaturePark.resources
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.FrmPrincipal.resources
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.Properties.Resources.resources
+E:\Mis Juegos Programados\NaturePark0\NATURE PARK ESTADISTICAS\N Park Estadisticas2\NaturePark\obj\Debug\NaturePark.csproj.GenerateResource.Cache

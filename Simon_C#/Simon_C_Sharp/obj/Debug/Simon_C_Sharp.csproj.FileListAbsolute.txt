@@ -1,0 +1,235 @@
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp2\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp3\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp4\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp5\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp6\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp7\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp8\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp9\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.exe
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\Simon_C_Sharp.pdb
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ZedGraph.xml
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\de\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\es\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\fr\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\hu\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\it\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ja\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\pt\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\ru\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\sk\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\sv\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\tr\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmEstadisticas.resources
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmGraficosFrecuencias.resources
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPartidosTiempo.resources
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmPrincipal.resources
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.FrmSimon.resources
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.Properties.Resources.resources
+F:\Users\dss\Desktop\backup disco de (320 GB)\Escritorio\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.csproj.GenerateResource.Cache
+C:\programacion\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.exe
+C:\programacion\Mis Juegos Programados\Simon_C_Sharp0\Simon_C_Sharp10\Simon_C_Sharp\obj\Debug\Simon_C_Sharp.pdb
